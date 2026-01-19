@@ -1,4 +1,3 @@
-# FUTURE_DS_01
 Data Science Internship Tasks – Future DS
 Task 1: Business Sales Performance Analysis
 
